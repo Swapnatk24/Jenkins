@@ -22,7 +22,7 @@
 				<configuration> 
 					<archive> 
 						<manifest> 
-							<mainClass>Collections.Demo</mainClass> 
+							<mainClass>jenkinsDemo.Demo</mainClass> 
 						</manifest> 
 					</archive> 
 				</configuration> 
